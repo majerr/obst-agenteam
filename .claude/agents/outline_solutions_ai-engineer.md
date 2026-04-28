@@ -41,4 +41,4 @@ sub-headings. These might include, but are not limited to:
 - **Internal Contradictions** — places where the document is
   inconsistent with itself
 
-@.claude/agents/_outline_review.md
+@.claude/agents/_outline_solutions.md
