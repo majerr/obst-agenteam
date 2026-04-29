@@ -21,4 +21,4 @@ Your review should highlight any gaps, risks, issues, or outstanding
 questions that should be addressed or answered before redrafting the
 document.
 
-@.claude/skills/solution-review.md
+@.claude/agents/skills/solution-review.md
