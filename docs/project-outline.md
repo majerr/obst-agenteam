@@ -111,6 +111,28 @@ currently exists in the market. It is US-domiciled SaaS and therefore
 highly unlikely ever to be assured for UK government use; the
 procurement process would require months of work.
 
+### AI Playbook-aligned Prompt and Template Library
+
+A curated library of prompts and document templates aligned to the
+stages of the UK Government AI Playbook (stages 0–5) and the GDS
+Service Standard. Each template would cover one required artefact
+type (e.g. business case, AI risk assessment, privacy impact
+assessment, model card) and include a structured prompt designed for
+use with AI tools that are already procured and assured for UK
+Government use (e.g. Microsoft Copilot, Claude for Government).
+
+This option requires no custom software development and no new
+procurement. Teams would use existing tools, guided by the
+templates, to produce governance-compliant artefacts. The library
+would be version-controlled and open-sourced. Governance alignment
+and maintenance would depend on regular review against current
+policy.
+
+This option was not in the original outline. It was identified as a
+significant missing alternative in a prior review, as the only
+candidate that demonstrably satisfies the security and procurement
+constraint without requiring new tooling.
+
 ## Aims
 
 The aim of this project is to define and develop a framework and

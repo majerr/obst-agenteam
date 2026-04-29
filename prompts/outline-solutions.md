@@ -11,7 +11,14 @@ problem-solving approach. **The aim at this stage is to elicit
 sufficient detail to make an informed choice of approaches.** It is
 not to make that choice.
 
-## First, consider the problem statement. 
+## First, consider the document version.
+
+* Read any previous review syntheses. 
+* Use git diff to check how this document has changed. 
+* If elements have been removed from this version (e.g. earlier
+  suggested solutions), do not re-add them.
+
+## Second, consider the problem statement. 
 
 Carefully research the domain.
 
@@ -54,7 +61,6 @@ Carefully research the domain.
 	timeout error (504), **DO NOT RETRY**. Instead, end all tool
 	calls, stop immediately, and report: "ERROR: {subagent_name}
 	encountered {error_name} ({error_code})"
-
 
 When the agents have completed their reviews, please synthesize them
 into a single document under docs/reviews, using the same naming
