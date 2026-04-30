@@ -1,20 +1,22 @@
-Please conduct a review of `docs/project-outline.md`.
+Please conduct a review of of the project outline in `docs/project-outline.md`.
 
 It is a description of the idea for this project, and includes:
 * A problem statement
-* One or more suggested solution
+* One or more suggested solutions, and possibly some rejected solutions
 * Some aims for the project
 * Some context for the project (e.g. constraints on development)
 
 The purpose of this review is to help decide on a solution or
 problem-solving approach. **The aim at this stage is to elicit
-sufficient detail to make an informed choice of approaches.** It is
-not to make that choice.
+sufficient detail to make an informed choice of approaches** It is not
+to make that choice.
 
 ## First, consider the document version.
 
-* Read any previous review syntheses. 
-* Use git diff to check how this document has changed. 
+* Read any previous review syntheses that exist in docs/reviews at
+  runtime. If reviews have been deleted, it is because they are to be
+  disregarded. Do not attempt to read them from previous commits.
+* Use git diff to check how the outline document has changed. 
 * If elements have been removed from this version (e.g. earlier
   suggested solutions), do not re-add them.
 
@@ -32,8 +34,9 @@ Carefully research the domain.
   suggestions, up to a maximum of 4 in total, including those already
   in the document. **ONLY ADD GENUINE ALTERNATIVES**; it is better to
   recognise that few solutions exist than to include filler.
+* Do **NOT** suggest any solutions that have already been rejected.
 
-## Second, consider the suggested solutions.
+## Third, consider the suggested solutions.
 
 1. For each suggested solution, research any links or paths to
    thoroughly understand the idea and how it solves the problem.
